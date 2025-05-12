@@ -1,0 +1,87 @@
+[
+  
+  {
+    "title": "Joblane - Job-Portal Website",
+    "description": "A full-stack job application portal that enables users to search, save, and filter jobs by category. Users can upload their resumes, manage their profiles, and track the status of applied jobs. The platform includes an admin feature for managing job application statuses and user accounts, as well as posting new job listings on the website.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind",
+      "Redux"
+    ],
+    "img": "/projects/joblane.JPG",
+    "liveDeployment": "https://job-lane-git-master-manikumar363s-projects.vercel.app/",
+    "githubRepo": "https://github.com/Manikumar363/JobLane"
+  },
+  {
+    "title": "BlogWiz - Blogging Platform",
+    "description": "A blogging platform website with a sleek and user-friendly interface, allowing users to write articles, upload pictures, edit their articles, delete them as needed, and search through different blogs of other users. The platform includes authentication, login, and registration features.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind",
+      "Redux"
+    ],
+    "img": "/projects/blogwiz.JPG",
+    "liveDeployment": "https://blogwiz-01.netlify.app",
+    "githubRepo": "https://github.com/Manikumar363/blogwiz"
+  },
+  {
+    "title": "News-Mate",
+    "description": "This project is a React + Tailwind CSS frontend for an AI-powered news chatbot that utilizes Retrieval-Augmented Generation (RAG). The chatbot allows users to ask questions and receive answers based on a collection of news articles. The application connects to the backend, which processes user queries and returns relevant information from the articles, enabling an interactive and dynamic conversation.",
+    "techStack": [
+      "JavaScript",
+      "React.js",
+      "Tailwind",
+      "Axios(for API calls)",
+      "Redux"
+    ],
+    "img": "/projects/News-Mate.png",
+    "liveDeployment": "https://newsmate-psi.vercel.app/",
+    "githubRepo": "https://github.com/Manikumar363/News-Mate"
+  },
+  {
+    "title": "Ecommerce",
+    "description": "This project is a Frontend E-Commerce Application built using HTML, CSS, and JavaScript. It provides a seamless user experience for browsing products, adding items to a shopping cart, and proceeding to checkout. The application allows users to view product details, manage cart contents, and see the final total for payment before completing the purchase process.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js"
+    ],
+    "img": "/projects/Ecommerce.png",
+    "liveDeployment": "https://e-commerce1-gold.vercel.app/",
+    "githubRepo": "https://github.com/Manikumar363/E-commerce1?tab=readme-ov-file"
+  },
+  {
+    "title": "Sorting-Algorithm",
+    "description": "This project is a JavaScript-based tool that visually demonstrates sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, and Merge Sort. It allows users to observe the sorting process in real time, helping to better understand how these algorithms work.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "img": "/projects/Sorting-Visualizer.png",
+    "liveDeployment": "https://sorting-visualizer-coral-six.vercel.app/",
+    "githubRepo": "https://github.com/Manikumar363/Sorting-Visualizer"
+  },
+  {
+    "title": "Weather Application",
+    "description": "A weather application that provides weather-related data for any city in the world in Celsius and Fahrenheit. It utilizes the OpenWeather API to fetch weather information for cities and dynamically changes the background image according to the weather conditions. The application boasts a beautiful interface for an enhanced user experience.",
+    "techStack": ["HTML", "CSS", "JavaScript", "React.js", "Bootstrap","OpenWeather API"],
+    "img": "/projects/weatherapp.JPG",
+    "liveDeployment": "https://weatherapp-d3ecd.web.app",
+    "githubRepo": "https://github.com/Manikumar363/Weather-API"
+  }
+  
+]
