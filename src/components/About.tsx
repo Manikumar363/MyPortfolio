@@ -30,7 +30,7 @@ export const About: React.FC = () => {
 
           <div className="md:w-1/3 border-b pt-3 md:pb-5 pb-3">
             <div className='flex justify-between'>
-              <h3 className="md:text-lg font-medium">Software Developer Intern</h3>
+              <h3 className="md:text-lg font-medium">Fullstack Developer Intern</h3>
               <span className="text-xs bg-green-300 md:px-6 md:w-auto w-1/4 md:h-auto h-6 font-bold rounded-md text-green-700 text-center md:pt-1.5 pt-1">Full Time</span>
             </div>
             <div className="md:text-sm text-xs flex md:flex-row justify-between flex-col mt-2 md:gap-4 gap-1 ">
@@ -42,7 +42,7 @@ export const About: React.FC = () => {
 
           <div className="md:w-1/3 border-b pt-3 md:pb-5 pb-3">
             <div className='flex justify-between'>
-              <h3 className="md:text-lg font-medium">Software Development Intern</h3>
+              <h3 className="md:text-lg font-medium">Web Developer Intern</h3>
               <span className="text-xs bg-green-300 md:px-6 md:w-auto w-1/4 md:h-auto h-6 font-bold rounded-md text-green-700 text-center md:pt-1.5 pt-1">Full Time</span>
             </div>
             <div className="md:text-sm text-xs flex md:flex-row justify-between flex-col mt-2 md:gap-4 gap-1 ">
