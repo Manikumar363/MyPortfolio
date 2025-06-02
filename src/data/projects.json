@@ -18,6 +18,24 @@
     "liveDeployment": "https://job-lane-git-master-manikumar363s-projects.vercel.app/",
     "githubRepo": "https://github.com/Manikumar363/JobLane1"
   },
+   {
+  "title": "CodeEditor - Web-Based Code Editor",
+  "description": "A powerful web-based code editor with an integrated terminal and real-time output. Users can write, run, and test Python code directly in the browser with syntax highlighting and secure backend execution using Docker. The backend is deployed on AWS EC2 for robust performance and scalability.",
+  "techStack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "Docker",
+    "Monaco Editor",
+    "AWS EC2"
+  ],
+  "img": "/projects/code-editor.png",
+  "liveDeployment": "https://code-editor-manikumar363s-projects.vercel.app/",
+  "githubRepo": "https://github.com/Manikumar363/Code-Editor"
+},
   {
     "title": "BlogWiz - Blogging Platform",
     "description": "A blogging platform website with a sleek and user-friendly interface, allowing users to write articles, upload pictures, edit their articles, delete them as needed, and search through different blogs of other users. The platform includes authentication, login, and registration features.",
