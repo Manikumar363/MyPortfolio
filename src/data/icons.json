@@ -64,9 +64,9 @@
     {
         "name": "Figma",
         "img": "/icons/figma.png"
-    } 
+    },
     {
-        "name": "NextJs"
+        "name": "NextJs",
         "img": "/icons/nextjs-icon.png"
     }
 ]
