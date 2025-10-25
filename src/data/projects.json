@@ -18,6 +18,24 @@
     "liveDeployment": "https://job-lane-git-master-manikumar363s-projects.vercel.app/",
     "githubRepo": "https://github.com/Manikumar363/JobLane1"
   },
+  {
+  "title": "Smart AI Research Assistant",
+  "description": "An AI-powered research assistant that integrates OpenAI GPT-4, Pinecone, and MongoDB Atlas to help users upload documents, perform semantic searches, and get real-time insights. Built with Node.js, Express.js, React.js, and Python, it supports secure session management, analytics tracking, and a responsive UI for efficient research workflows.",
+  "techStack": [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "Python",
+    "MongoDB Atlas",
+    "OpenAI GPT-4",
+    "Pinecone",
+    "JWT Authentication",
+    "Azure OpenAI"
+  ],
+  "img": "/projects/smart-ai.png",
+  "liveDeployment": "https://smart-research-assistant-gray.vercel.app/",
+  "githubRepo": "https://github.com/Manikumar363/smart-research-assistant"
+},
    {
   "title": "CodeEditor - Web-Based Code Editor",
   "description": "A powerful web-based code editor with an integrated terminal and real-time output. Users can write, run, and test Python code directly in the browser with syntax highlighting and secure backend execution using Docker. The backend is deployed on AWS EC2 for robust performance and scalability.",
