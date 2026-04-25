@@ -20,7 +20,7 @@
 },
   {
   "title": "AEGA - Global Student Recruitment & Compliance Platform",
-  "description": "A full-stack multi-role platform designed for international student recruitment and compliance management. The system supports Agents, Universities, B2B, and B2C users with admin-controlled workflows for managing student applications end-to-end. It includes a compliance scoring system that enforces mandatory course completion before agents can process student applications, along with secure authentication, role-based access control, and scalable REST APIs for handling complex multi-user interactions.",
+  "description": "A full-stack platform for international student recruitment and compliance management. It supports Agents, Universities, B2B, and B2C users with secure role-based workflows, student application tracking, compliance scoring, and scalable REST API integration.",
   "techStack": [
     "Next.js",
     "React.js",
@@ -38,7 +38,7 @@
 },
   {
   "title": "CareWorks - Caregiver & Careseeker Platform",
-  "description": "A full-stack multi-role platform connecting careseekers and caregivers through seamless booking workflows and service management features. Users can manage profiles, book caregiving services, track service requests, and communicate through role-based dashboards. The platform supports secure authentication, role-based access control, real-time data handling, and smooth frontend-backend integration using REST APIs for an optimized production-grade user experience.",
+  "description": "A full-stack multi-role platform connecting caregivers and careseekers with booking workflows, service management, secure authentication, role-based dashboards, and seamless frontend-backend integration using REST APIs.",
   "techStack": [
     "Next.js",
     "React.js",
