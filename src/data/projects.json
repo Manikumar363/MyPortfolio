@@ -1,5 +1,59 @@
 [
-  
+
+  {
+  "title": "Appraiser - Property Valuation & Lender Management Platform",
+  "description": "A full-stack property valuation and job management platform that connects lenders and appraisers, enabling complete lifecycle management of property valuation requests. Users can create, assign, and track appraisal jobs, manage lender and appraiser profiles, upload required documents, and monitor job progress in real time. The platform includes secure role-based dashboards, authentication, and admin controls for handling workflows efficiently.",
+  "techStack": [
+    "Next.js",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "JavaScript",
+    "TypeScript",
+    "Tailwind CSS",
+    "Redux Toolkit"
+  ],
+  "img": "/projects/Appraiser.png",
+  "liveDeployment": "https://emadiappraisals.com/",
+  "githubRepo": "https://github.com/Manikumar363/Appraiser-Lender"
+},
+  {
+  "title": "AEGA - Global Student Recruitment & Compliance Platform",
+  "description": "A full-stack multi-role platform designed for international student recruitment and compliance management. The system supports Agents, Universities, B2B, and B2C users with admin-controlled workflows for managing student applications end-to-end. It includes a compliance scoring system that enforces mandatory course completion before agents can process student applications, along with secure authentication, role-based access control, and scalable REST APIs for handling complex multi-user interactions.",
+  "techStack": [
+    "Next.js",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "JavaScript",
+    "TypeScript",
+    "Tailwind CSS",
+    "Redux Toolkit"
+  ],
+  "img": "/projects/Aega.png",
+  "liveDeployment": "https://aega-frontend.vercel.app/",
+  "githubRepo": "https://github.com/Manikumar363/aega-frontend"
+},
+  {
+  "title": "CareWorks - Caregiver & Careseeker Platform",
+  "description": "A full-stack multi-role platform connecting careseekers and caregivers through seamless booking workflows and service management features. Users can manage profiles, book caregiving services, track service requests, and communicate through role-based dashboards. The platform supports secure authentication, role-based access control, real-time data handling, and smooth frontend-backend integration using REST APIs for an optimized production-grade user experience.",
+  "techStack": [
+    "Next.js",
+    "React.js",
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "Tailwind CSS",
+    "Redux Toolkit",
+    "MongoDB"
+  ],
+  "img": "/projects/Careworks.png",
+  "liveDeployment": "https://www.careworks.biz/",
+  "githubRepo": "https://github.com/Manikumar363/care-works"
+},
   {
     "title": "Joblane - Job-Portal Website",
     "description": "A full-stack job application portal that enables users to search, save, and filter jobs by category. Users can upload their resumes, manage their profiles, and track the status of applied jobs. The platform includes an admin feature for managing job application statuses and user accounts, as well as posting new job listings on the website.",
